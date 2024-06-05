@@ -1,5 +1,5 @@
-#!bin/bash
+#!/bin/bash
 
 env='Hello world!"
 
-echo "$env"
+echo $env
