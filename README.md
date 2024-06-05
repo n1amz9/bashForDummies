@@ -1,1 +1,1 @@
-Thank you https://guide.bash.academy/inception/
+Thank you https://guide.bash.academy
