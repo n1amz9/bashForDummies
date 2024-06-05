@@ -2,4 +2,4 @@
 
 env='Hello world!"
 
-echo $env
+echo "$env"
