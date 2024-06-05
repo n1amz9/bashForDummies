@@ -1,5 +1,12 @@
 #!/bin/bash
 
-env="Hello world!"
+first_greeting = "First Hello World!"
+later_greeting = "Last Hello World!"
+index = 4
 
-echo $env
+if [ $index -lt 5]
+then
+    echo $first_greeting
+else
+    echo $later_greeting
+fi
