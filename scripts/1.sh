@@ -2,7 +2,7 @@
 
 first_greeting="First Hello World!"
 later_greeting="Last Hello World!"
-index=6
+index=2
 
 if [ $index -lt 5 ]
 then
